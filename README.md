@@ -1,23 +1,23 @@
-#project Title: Pythoncode1
+# project Title: Pythoncode1
 
-##Here we Created two directories
+## Here we Created two directories
 1. SourceCode:  The DataSet directory consists of the Data set
 2. DataSet:   The python code file is Stored in the SourceCode  directory
 
    
-##Task to be Achieved
+## Task to be Achieved
 1. Finding the average global sales before 2005 and after 2005.
 2. Creating a new column called released and label  records of before 2005 as 'pre-2005' and after 2005 as 'post-2005'
 
 
-##Libraries used:
+## Libraries used:
 
 Pandas
 Pymysql
 create_engine
 
 
-##Code Structure:
+## Code Structure:
 
 Importing the necessary libraries
 
@@ -29,4 +29,4 @@ Code to Create a new column that labels records before 2005 as 'pre-2005' and af
 
 Code to find  the average of global sales higher before or after 2005 ?
 
-##Printing the Output
+## Printing the Output
